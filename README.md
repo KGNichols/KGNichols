@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KGNichols
+- 👀 I’m interested in Data Analytics related to healthcare
+- 🌱 I’m currently learning data analysis, SQL, Tableau, creating visualizations, and in the procress of completing the Data Analytics Google Certificate.
+- 💞️ I’m looking to collaborate on data analytics related to healthcare.  
+- 📫 How to reach me www.linkedin.com/in/katelyn-nichols-35481718b
